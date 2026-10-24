@@ -5,7 +5,7 @@ Main deck must have no more than 15 slides **including the title**. Keep sourcin
 | # | Action title | Proof/visual |
 |---:|---|---|
 | 1 | Under Armour can test a repeat customer relationship through FitLife Brands | Title, company names, no student identity |
-| 2 | A conditional ~$134m enterprise-value deal can open a nutrition growth wedge without taking on FitLife debt | One-page recommendation; $97m equity offer, cash/stock, three tests |
+| 2 | FitLife warrants diligence, but a ~$134m illustrative offer is ~$30m above standalone DCF | One-page decision; price gap, $97m equity illustration, cash/stock and diligence tests |
 | 3 | Under Armour's demand problem is concentrated in North America and footwear | Revenue by region/category; distinguish growth from margin recovery |
 | 4 | A target must add frequent customer contact and fit within UA's cash constraints | Three screening criteria and four candidates |
 | 5 | FitLife offers a $101m revenue base in a different, repeat-purchase industry | Brands, channel mix, growth caveat |

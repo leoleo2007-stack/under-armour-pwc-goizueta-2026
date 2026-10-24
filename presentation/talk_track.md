@@ -5,7 +5,7 @@ This is a **working argument** for the team to interrogate, not a finished submi
 | Slide | Time | What to say and show |
 |---:|---:|---|
 | 1 | 0:30 | State the decision: investigate FitLife Brands as a conditional acquisition by Under Armour. Name the customer-demand problem. |
-| 2 | 1:00 | State the illustrative $134m enterprise value, roughly $97m equity offer, and the three gates: organic demand, product safety, and price. This is a request for diligence, not approval of a signed deal. |
+| 2 | 1:00 | State the illustrative $134m offer enterprise value and ~$104m standalone DCF. The ~$30m gap requires risk-adjusted net synergies beyond fees and integration. This requests diligence and a pilot, not approval of that offer. |
 | 3 | 1:00 | Show FY2026 sales $4.97b, North America down 7.9%, footwear down 11%. Explain that June-quarter operating income of $47m and adjusted FY2027 guidance do not establish sales recovery: June-quarter revenue fell 3%. Use case Exhibits 1–3 and the UA filings. |
 | 4 | 0:45 | Show the screen. A target must have customer frequency, a different industry, and a purchase price UA can finance. Xponential's debt and Laird's preferred claim make common equity value misleading; GoPro already has a definitive transaction. |
 | 5 | 0:55 | Introduce FitLife's nutrition brands and LTM $101.3m revenue. The strategic asset is repeat consumption and distribution, not a claim that every UA buyer wants supplements. Cite FTLF filings. |

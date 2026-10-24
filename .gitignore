@@ -1,6 +1,5 @@
+model/node_modules
+outputs/*.inspect.ndjson
+outputs/*.png
 __pycache__/
 *.pyc
-.DS_Store
-outputs/
-*.pptx
-*.pdf

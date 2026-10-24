@@ -2,7 +2,7 @@
 
 ## Answer first
 
-Recommend a **conditional acquisition of FitLife Brands** at an illustrative enterprise value near **$134m** (October 22 indicative equity capitalization of $77.62m, assumed 25% equity premium, plus $38.1m target debt, less $1.1m cash). Fund half of the roughly $97m equity offer with non-voting UA Class C stock and half with cash; retire FitLife debt and budget $4m deal fees. In the screening bridge, cash after closing is about **$306m** and UA debt remains **$591m**. No acquisition is warranted if diligence fails the organic-demand, product-safety, or price tests below.
+Recommend **diligence and a commercial pilot for FitLife Brands, with a strict acquisition price ceiling**. The original 25%-premium illustration implies **$134m enterprise value** (October 22 indicative equity capitalization of $77.62m, $38.1m target debt and $1.1m cash). An assumption-driven standalone DCF now values the operating business at **$104.3m**, leaving a **$29.8m value gap before deal fees and integration**. The 25%-premium illustration is a financing scenario, **not a recommended bid**. At that scenario's 50/50 stock/cash mix, closing cash is about $306m and UA debt stays $591m. A binding offer needs independently evidenced, risk-adjusted net synergies greater than the gap and costs; otherwise walk or negotiate materially different terms.
 
 This is a **small customer-frequency wedge**, not a $200m instant cure. Use FitLife's MusclePharm and other appropriate products in a *train–fuel–recover* assortment, with selected UA stores and ecommerce as a measured acquisition channel. Keep FitLife's own retail and Amazon channels independent initially. If that test works, expand; if it does not, preserve UA capital for footwear and brand renewal.
 
@@ -66,7 +66,7 @@ The downside also assumes 30% incremental margin and $4m launch expense; base as
 | Customer cannibalization | Existing FitLife buyers might merely change checkout channels; UA product budget might shift | Measure incremental combined contribution with randomized market test and customer identity controls |
 | Integration and management distraction | UA's past app acquisitions and current restructuring | Separate product P&L, retain target operating specialists, quarterly board stage gates |
 
-**Hard no-deal conditions:** (1) credible organic declines remain around 20% annually with no unit-economic recovery; (2) safety/label or anti-doping audit fails; (3) negotiated enterprise value exceeds a price justified by independently modeled cash flows; (4) base financing pushes UA below a board-approved seasonal cash floor. The $250m floor above is a **team placeholder**, not UA guidance.
+**Hard no-deal conditions:** (1) credible organic declines remain around 20% annually with no unit-economic recovery; (2) safety/label or anti-doping audit fails; (3) negotiated enterprise value exceeds the standalone DCF plus proven net synergies after integration costs; (4) base financing pushes UA below a board-approved seasonal cash floor. The $250m floor above is a **team placeholder**, not UA guidance. The [five-year DCF appendix](../presentation/appendix.md) also compares Escalade and tests WACC/terminal-growth assumptions.
 
 ## Implementation and opportunity cost
 
