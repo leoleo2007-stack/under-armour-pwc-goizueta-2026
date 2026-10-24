@@ -5,7 +5,7 @@ A source-traceable research project for the October 2026 case competition. **Wor
 ## Start here
 
 1. Read [the case brief](case/brief.md) and the [recommendation](research/recommendation.md).
-2. Check the [source register and alternatives](research/source_register.md). Every sourced number has a filing or release link; every invented scenario input is labeled **assumption**.
+2. Check the [source register and alternatives](research/source_register.md), including the [Escalade challenger screen](research/escalade_screen.md). Every sourced number has a filing or release link; every invented scenario input is labeled **assumption**.
 3. Run `python3 model/case_model.py --scenarios` to display the deal bridge, historical combination, and adoption sensitivity. Edit `data/inputs.json` and rerun. No packages are required.
 4. Use the [15-slide copy](presentation/slide_copy.md), [storyboard](presentation/slide_story.md), and [presenter notes](presentation/talk_track.md) for the two PDF submissions. The team still needs to validate the thesis, review the model and build/design the final deck.
 
