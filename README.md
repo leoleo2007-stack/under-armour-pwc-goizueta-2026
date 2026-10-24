@@ -1,17 +1,20 @@
 # Under Armour M&A case | PwC x Goizueta 2026
 
-A source-traceable research project for the October 2026 case competition. **Working recommendation:** Under Armour should evaluate an acquisition of FitLife Brands (NASDAQ: FTLF), a sports-nutrition and wellness company, subject to a strict price cap and diligence gates. The company is in a different industry from apparel and is smaller than Under Armour. This is a team working draft, not a claim that either company has agreed to a transaction.
+A source-traceable research project for the October 2026 case competition. **Selected research target: Escalade, Inc. (NASDAQ: ESCA), for a potential acquisition by Under Armour.** Selection remains subject to industry eligibility, valuation, financing, licensing and strategic diligence. This is a team working draft, not an agreed transaction.
+
+The [Escalade execution plan](presentation/escalade_case_plan.md) sets out the research, modeling, financing and 15-slide presentation work. Existing FitLife materials are prior-target research and are not Escalade financial results.
 
 ## Start here
 
-1. Read [the case brief](case/brief.md) and the [recommendation](research/recommendation.md).
-2. Check the [source register and alternatives](research/source_register.md), including the [Escalade challenger screen](research/escalade_screen.md). Every sourced number has a filing or release link; every invented scenario input is labeled **assumption**.
-3. Run `python3 model/case_model.py --scenarios` to display the deal bridge, historical combination, and adoption sensitivity. Edit `data/inputs.json` and rerun. No packages are required.
-4. Use the [15-slide copy](presentation/slide_copy.md), [storyboard](presentation/slide_story.md), and [presenter notes](presentation/talk_track.md) for the two PDF submissions. The team still needs to validate the thesis, review the model and build/design the final deck.
+1. Read [the case brief](case/brief.md), [Escalade execution plan](presentation/escalade_case_plan.md), and [Escalade screen](research/escalade_screen.md).
+2. Check the [source register](research/source_register.md). Label every input as reported fact, calculation or assumption and enforce the case cutoff.
+3. Build and validate the Escalade standalone, valuation, financing and combined-company models described in the execution plan.
+4. Develop the 15-slide Escalade story and supporting appendices, then export the anonymous and team PDFs.
+5. Prior FitLife research remains in [recommendation](research/recommendation.md), [slide copy](presentation/slide_copy.md), [storyboard](presentation/slide_story.md), and [presenter notes](presentation/talk_track.md). The existing `model/case_model.py` and `data/inputs.json` also remain FitLife-specific.
 
 ## Central conclusion
 
-The acquisition can add a recurring purchase category and a small but real annual revenue stream. It cannot, by itself, reverse a roughly $5 billion sportswear brand's decline. FitLife's legacy business fell 23% year over year in Q2 2026, so the case for buying it depends on stabilizing that business and proving that Under Armour can acquire *new* customers with nutrition. Do not describe a simple sum of revenues as a synergy, or attribute FitLife's acquisition-driven growth to organic demand.
+The Escalade thesis must prove that ownership creates incremental customer and operating value for Under Armour beyond a partnership, at a price that preserves buyer returns and downside liquidity. Buying the target's existing revenue is not a synergy. The whole portfolio, licensed-brand rights and integration costs require diligence; the plan is not a completed investment recommendation.
 
 ## Important timing and sharing
 
@@ -20,6 +23,6 @@ The acquisition can add a recurring purchase category and a small but real annua
 - The organizer's training PDF and case document are linked in the brief, not committed here. The repository contains the team's working analysis and assumptions.
 - The competition allows AI but discourages it for ideation. Treat the target selection as a research hypothesis for your team to challenge and own.
 
-## What the model does and does not do
+## What the existing FitLife model does and does not do
 
-It computes a screening valuation, sources-and-uses sketch, a historical income-statement combination, and an illustrative Year 3 cross-sell bridge. It is **not** a purchase-price allocation, audited pro forma, DCF, fairness opinion, or five-year balance-sheet forecast. An acquisition would require creditor and change-of-control review, tax and regulatory diligence, and a real valuation based on negotiations.
+The existing model has not been converted to Escalade. It computes a screening valuation, sources-and-uses sketch, a historical income-statement combination, and an illustrative Year 3 cross-sell bridge. It is **not** a purchase-price allocation, audited pro forma, DCF, fairness opinion, or five-year balance-sheet forecast. An acquisition would require creditor and change-of-control review, tax and regulatory diligence, and a real valuation based on negotiations.
