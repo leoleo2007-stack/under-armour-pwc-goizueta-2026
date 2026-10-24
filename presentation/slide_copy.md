@@ -4,17 +4,18 @@ All transaction terms and commercial cases below are **team assumptions**. Show 
 
 ## 1. Under Armour and FitLife Brands
 
-**A conditional acquisition to test recurring customer demand**
+**A disciplined acquisition option to test recurring customer demand**
 
 PwC x Goizueta 2026 case | October 2026
 
 ## 2. Recommendation
 
-**Investigate a ~$134m enterprise-value acquisition; stop if organic demand, safety or price fails diligence**
+**Investigate FitLife; the modeled 25%-premium price needs more synergy evidence**
 
-- Illustrative equity offer $97m at an assumed 25% premium to an indicative October 22 capitalization.
+- Illustrative equity offer $97m at an assumed 25% premium to an indicative October 22 capitalization; this is **not a recommended bid**.
 - Fund equity 50% cash and 50% nonvoting UA Class C shares. Retire ~$38m target debt.
-- Approve diligence now; negotiate a deal only after the evidence gates clear.
+- Standalone DCF EV is ~$104m versus ~$134m offer EV: require >$30m risk-adjusted net synergy value plus integration costs.
+- Approve diligence and a pilot now; negotiate only after the evidence gates clear.
 
 *Source: FTLF June 2026 10-Q; UA June 2026 10-Q. Premium, structure and fees are assumptions.*
 
@@ -37,11 +38,12 @@ April–June operating income was $47m. FY2027 adjusted operating income guidanc
 | Candidate | Strategic appeal | Decision concern |
 |---|---|---|
 | FitLife Brands | Repeat nutrition purchases | Legacy revenue down 23% in Q2; diligence required |
+| Escalade | Equipment-linked sports participation | ~$109m standalone DCF gap at modeled premium; case-rule eligibility uncertain |
 | Xponential Fitness | Studio customer contact | $522m debt, franchisee independence |
 | Laird Superfood | Grocery distribution | ~$110m preferred mezzanine claim |
 | GoPro | Action sports audience | Existing definitive Starman merger |
 
-*Sources: FTLF and LSF 10-Qs, Xponential Q2 release, GoPro transaction announcement.*
+*Sources: FTLF, ESCA and LSF 10-Qs, Xponential Q2 release, GoPro transaction announcement; appendix DCF.*
 
 ## 5. FitLife's footprint
 
@@ -142,14 +144,14 @@ UA's previous fitness-app purchases and exits make an explicit stop rule importa
 
 ## 14. Opportunity cost
 
-**The acquisition must outperform roughly $90m of internal footwear and North America spending**
+**The acquisition must clear its valuation gap and outperform roughly $90m of internal spending**
 
-The cash offer, target debt repayment and fees total about $90.6m. A comparable internal program could fund product work and customer acquisition. Public filings do not establish which option has the higher return. Compare both on incremental gross profit and retained new customers after a pilot or partnership test.
+The cash offer, target debt repayment and fees total about $90.6m. Standalone DCF EV is $29.8m below the modeled offer EV before fees and integration. A comparable internal program could fund product work and customer acquisition. Compare both on incremental gross profit and retained new customers after a pilot or partnership test.
 
 *Cash commitment is model-derived. Internal program is a counterfactual assumption.*
 
 ## 15. Board ask
 
-**Authorize diligence; require proof before a binding acquisition offer**
+**Authorize diligence and pilot; do not approve the 25%-premium offer today**
 
-Proceed only if FitLife's organic brand trend can stabilize, product safety and claims pass independent review, financing preserves the approved cash floor, and tested customer economics beat the internal investment hurdle. Otherwise continue UA's core brand and footwear repair without this acquisition.
+Proceed to a binding offer only if FitLife's organic brand trend can stabilize, product safety and claims pass independent review, financing preserves the approved cash floor, and risk-adjusted net synergies exceed the ~$29.8m standalone value gap plus fees and integration. Otherwise continue UA's core brand and footwear repair without this acquisition.
