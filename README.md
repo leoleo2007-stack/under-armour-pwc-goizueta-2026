@@ -7,7 +7,7 @@ A source-traceable research project for the October 2026 case competition. **Wor
 1. Read [the case brief](case/brief.md) and the [recommendation](research/recommendation.md).
 2. Check the [source register and alternatives](research/source_register.md). Every sourced number has a filing or release link; every invented scenario input is labeled **assumption**.
 3. Run `python3 model/case_model.py --scenarios` to display the deal bridge, historical combination, and adoption sensitivity. Edit `data/inputs.json` and rerun. No packages are required.
-4. Use the [15-slide storyboard](presentation/slide_story.md) for the two PDF submissions. The team still needs to validate the thesis, review the model and build/design the final deck.
+4. Use the [15-slide copy](presentation/slide_copy.md), [storyboard](presentation/slide_story.md), and [presenter notes](presentation/talk_track.md) for the two PDF submissions. The team still needs to validate the thesis, review the model and build/design the final deck.
 
 ## Central conclusion
 
@@ -16,7 +16,7 @@ The acquisition can add a recurring purchase category and a small but real annua
 ## Important timing and sharing
 
 - Case cut-off: facts as of October 22, 2026. The equity-value input uses an indicative October 22 quote; verify the exact official closing price and share count before submitting.
-- Deck due Wednesday, October 28 at 5:00 p.m. Eastern. The packet calls for two PDFs, one anonymous and one with a meet-the-team slide, with up to 15 slides including title (appendix excluded).
+- Deck due Wednesday, October 28 at 5:00 p.m. Eastern. The packet calls for two PDFs, one anonymous and one with a meet-the-team slide. The 15-slide main limit includes title but excludes appendix and meet-the-team.
 - The organizer's training PDF and case document are linked in the brief, not committed here. Keep the repository private unless the team decides public disclosure is appropriate.
 - The competition allows AI but discourages it for ideation. Treat the target selection as a research hypothesis for your team to challenge and own.
 

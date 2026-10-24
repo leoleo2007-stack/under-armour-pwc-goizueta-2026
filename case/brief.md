@@ -1,6 +1,6 @@
 # Case brief and rules
 
-The authoritative prompt is [Under Armour PwC Case](https://docs.google.com/document/d/1xAMcRNcW7vdtFRb9otHSRiV3vEc0xJtKNi2tExM_tTU/edit?usp=sharing). The release/training PDF and the financial training PDF were supplied to the team separately. Do not copy their full text into an open repository.
+The authoritative prompt is [Under Armour PwC Case](https://docs.google.com/document/d/1xAMcRNcW7vdtFRb9otHSRiV3vEc0xJtKNi2tExM_tTU/edit?usp=sharing), also supplied as a seven-page Word document. The release/training PDF and financial training PDF were supplied separately. Do not copy their full text into an open repository.
 
 ## Decision
 
@@ -15,13 +15,15 @@ Under Armour is the **buyer**. Select one real company **smaller than Under Armo
 | North America revenue change | UA FY2026 | (7.9%) | UA 10-K |
 | Cash and equivalents | Jun 30, 2026 | 396.0 | [UA Q1 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/1336917/000133691726000111/ua-20260630.htm) |
 | Long-term debt, net | Jun 30, 2026 | 591.2 | UA Q1 FY2027 10-Q |
+| Revenue / operating income | Apr–Jun 2026 | 1,100 / 47 | Case Exhibit 3, from UA Q1 FY2027 release |
+| FY2027 adjusted operating income outlook | Apr 2026–Mar 2027 | 140–160 | Case Exhibit 3; partly tariff refunds, non-GAAP |
 
 **Balance-sheet update:** The case packet quotes March 31 debt of $1,190.4m, including $599.8m classified current. The June 30 filing says the $600m 2026 notes were settled on June 15 using previously restricted investments. The model uses June 30 cash and debt, not the stale March debt amount. The March $605.4m restricted investment was not spare acquisition cash.
 
 ## Submission
 
 - Two PDFs: anonymous and meet-the-team versions; one team submission.
-- At most 15 main slides including title; appendix and meet-the-team excluded as described in the packet.
+- At most 15 main slides including title; appendix and meet-the-team slides are excluded from that count.
 - Due October 28, 2026, 5:00 p.m. Eastern. Finalists present October 30 for 15 minutes plus 10–15 minutes of questions. Every teammate must answer at least one Q&A question.
 - Rubric rewards a nuanced problem diagnosis, linked recommendations, sourced impact, risks and mitigation, feasibility, a cohesive story, and creativity.
 

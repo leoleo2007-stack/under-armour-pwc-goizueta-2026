@@ -4,7 +4,7 @@ Main deck must have no more than 15 slides **including the title**. Keep sourcin
 
 | # | Action title | Proof/visual |
 |---:|---|---|
-| 1 | Under Armour can buy a repeat customer relationship through FitLife Brands | Title, company names, team version only |
+| 1 | Under Armour can test a repeat customer relationship through FitLife Brands | Title, company names, no student identity |
 | 2 | A conditional ~$134m enterprise-value deal can open a nutrition growth wedge without taking on FitLife debt | One-page recommendation; $97m equity offer, cash/stock, three tests |
 | 3 | Under Armour's demand problem is concentrated in North America and footwear | Revenue by region/category; distinguish growth from margin recovery |
 | 4 | A target must add frequent customer contact and fit within UA's cash constraints | Three screening criteria and four candidates |
@@ -28,4 +28,4 @@ Main deck must have no more than 15 slides **including the title**. Keep sourcin
 - Why Xponential, Laird, and GoPro were not chosen.
 - UA dual-class governance and the June 2026 repayment of 2026 notes.
 - Supplement-label, athlete-certification, and claim review workflow.
-- Q&A ownership: each teammate takes at least one substantive question.
+- A separate **meet-the-team** slide belongs only in the identified PDF and does not count toward the 15 main slides. Leave it out of the anonymous PDF. The team should assign each member at least one substantive Q&A question.

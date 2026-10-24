@@ -9,6 +9,7 @@ This is a **small customer-frequency wedge**, not a $200m instant cure. Use FitL
 ## Diagnosis and why this target
 
 - UA FY2026 revenue fell to $4.97b and North America sales fell 7.9%. The packet identifies customer desire at full price as the problem. A cost-only program can improve margins without creating customer demand.
+- UA earned $47m of operating income in the April–June 2026 quarter and guided to $140–160m FY2027 **adjusted** operating income, partly aided by tariff refunds. This improvement does not establish a recovery in organic customer demand: quarterly sales still declined 3% and management guided to a mid-single-digit full-year sales decline. Keep GAAP FY2026 and non-GAAP FY2027 measures separate.
 - FitLife sells a frequently purchased category outside apparel and has $101.3m LTM revenue and $11.0m LTM operating income to June 2026. Its $78m indicative equity value makes a transaction small relative to UA's roughly $2b capitalization and $396m June cash.
 - FitLife's own legacy revenue fell 23% in Q2. Irwin's purchase explains most headline growth. The thesis therefore depends on a verified retention/marketing engine and UA incremental conversion, rather than celebrating a consolidated growth rate.
 - UA's old fitness-app acquisitions produced poor exits. This proposal uses physical consumables and revenue per channel with a discrete pilot and a kill condition. That lowers, but does not eliminate, integration and distraction risk.

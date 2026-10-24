@@ -4,6 +4,8 @@
 
 ## Primary evidence
 
+The [organizer's seven-page Under Armour case](https://docs.google.com/document/d/1xAMcRNcW7vdtFRb9otHSRiV3vEc0xJtKNi2tExM_tTU/edit?usp=sharing) defines the assignment and reproduces UA FY2026 exhibits. Exhibit 3 reports April–June 2026 revenue of about $1.10b (down 3%), operating income of $47m, and FY2027 adjusted operating income guidance of $140–160m. The guidance is non-GAAP and partly reflects tariff refunds; it is not comparable to FY2026 GAAP operating loss without reconciliation.
+
 | ID | Source and date | Figures used | Limitation |
 |---|---|---|---|
 | UA-10K | [Under Armour FY2026 Form 10-K](https://www.sec.gov/Archives/edgar/data/1336917/000133691726000073/ua-20260331.htm), filed 2026 | Revenue $4,966.4m, operating loss $163.1m, DTC $2,054.1m; regional sales; history and governance | March 31 balance is superseded by later June quarter |
