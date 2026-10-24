@@ -1,0 +1,42 @@
+{
+  "units": "USD millions except prices, shares, stores, basket, weeks, and rates",
+  "as_of": "2026-10-24",
+  "under_armour": {
+    "fy2026_revenue_m": 4966.4,
+    "fy2026_operating_income_m": -163.112,
+    "fy2026_dtc_revenue_m": 2054.1,
+    "stores": 443,
+    "jun2026_cash_m": 395.981,
+    "jun2026_debt_m": 591.158,
+    "share_price_usd": 4.88
+  },
+  "fitlife": {
+    "fy2025_revenue_m": 81.458,
+    "fy2025_operating_income_m": 10.062,
+    "h1_2025_revenue_m": 32.063,
+    "h1_2025_operating_income_m": 5.476,
+    "h1_2026_revenue_m": 51.874,
+    "h1_2026_operating_income_m": 6.416,
+    "jun2026_cash_m": 1.089,
+    "jun2026_debt_m": 38.1,
+    "oct22_market_cap_m": 77.62,
+    "oct22_share_price_usd": 8.25,
+    "q2_2026_gross_margin": 0.37
+  },
+  "deal_assumptions": {
+    "equity_premium": 0.25,
+    "stock_consideration_share": 0.5,
+    "retire_target_debt_at_close": true,
+    "transaction_fees_m": 4.0
+  },
+  "year3_commercial_assumptions": {
+    "weeks": 52,
+    "store_incremental_transactions_per_week": 25,
+    "supplement_basket_usd": 30,
+    "ua_dtc_order_value_usd": 80,
+    "online_attach_rate": 0.01,
+    "new_to_combined_group_share": 0.7,
+    "incremental_gross_margin": 0.37,
+    "annual_incremental_marketing_and_operations_m": 3.0
+  }
+}
