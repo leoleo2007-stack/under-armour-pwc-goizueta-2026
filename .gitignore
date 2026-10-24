@@ -3,3 +3,4 @@ outputs/*.inspect.ndjson
 outputs/*.png
 __pycache__/
 *.pyc
+data/team.json
