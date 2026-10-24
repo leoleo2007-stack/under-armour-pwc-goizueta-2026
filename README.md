@@ -17,7 +17,7 @@ The acquisition can add a recurring purchase category and a small but real annua
 
 - Case cut-off: facts as of October 22, 2026. The equity-value input uses an indicative October 22 quote; verify the exact official closing price and share count before submitting.
 - Deck due Wednesday, October 28 at 5:00 p.m. Eastern. The packet calls for two PDFs, one anonymous and one with a meet-the-team slide. The 15-slide main limit includes title but excludes appendix and meet-the-team.
-- The organizer's training PDF and case document are linked in the brief, not committed here. Keep the repository private unless the team decides public disclosure is appropriate.
+- The organizer's training PDF and case document are linked in the brief, not committed here. The repository contains the team's working analysis and assumptions.
 - The competition allows AI but discourages it for ideation. Treat the target selection as a research hypothesis for your team to challenge and own.
 
 ## What the model does and does not do
